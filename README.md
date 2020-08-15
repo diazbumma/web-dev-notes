@@ -10,3 +10,8 @@ This repository contains notes, documentation, and places to learn about web dev
 - [Howler JS - Audio Library](https://howlerjs.com/)
 - [jQuery Documentation](https://api.jquery.com/)
 - [Bootstrap CSS Documentation](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+
+#### Backend Library and Framework
+- [Express JS](https://expressjs.com/)
+- [EJS](https://ejs.co/#docs)
+- [Body-Parser](https://github.com/expressjs/body-parser#readme)
