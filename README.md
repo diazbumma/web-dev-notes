@@ -10,6 +10,7 @@ This repository contains notes, documentation, and places to learn about web dev
 - [Howler JS - Audio Library](https://howlerjs.com/)
 - [jQuery Documentation](https://api.jquery.com/)
 - [Bootstrap CSS Documentation](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+- [Semantic UI Docs](https://semantic-ui.com/)
 
 #### Backend Library and Framework
 - [Express JS](https://expressjs.com/)
@@ -21,3 +22,6 @@ This repository contains notes, documentation, and places to learn about web dev
 
 #### Debugging Modules
 - [Locus](https://www.npmjs.com/package/locus)
+
+#### CDNs
+- [Semantic UI CDN](https://cdnjs.com/libraries/semantic-ui)
