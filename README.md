@@ -16,6 +16,7 @@ This repository contains notes, documentation, and places to learn about web dev
 - [Express JS](https://expressjs.com/)
 - [EJS](https://ejs.co/#docs)
 - [Body-Parser](https://github.com/expressjs/body-parser#readme)
+- [Express Sanitizer](https://www.npmjs.com/package/express-sanitizer)
 - [Mongoose](https://mongoosejs.com/docs/guide.html) - A Javascript layer on top of MongoDB
 - [~~Request~~](https://www.npmjs.com/package/request) - *Deprecated*
 - [~~Request-Promise~~](https://www.npmjs.com/package/request-promise) - *Deprecated*
