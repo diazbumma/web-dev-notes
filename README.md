@@ -2,11 +2,11 @@
 This repository contains notes, documentation, and places to learn about web development.
 
 #### Websites
-- [w3schools - The Online Web Tutorial](https://www.w3schools.com/)
-- [MDN - Web Developer Guide](https://developer.mozilla.org/en-US/)
+- [w3schools - The Online Web Tutorial](https://www.w3schools.com/) - A complete online web tutorial.
+- [MDN - Web Developer Guide](https://developer.mozilla.org/en-US/) - Official web documentation and development standards.
 
 #### Frontend Library
-- [Paper JS - Vector Graphics Scripting](http://paperjs.org/)
+- [Paper JS - Vector Graphics Scripting](http://paperjs.org/) - A javascript framework for vector graphics.
 - [Howler JS - Audio Library](https://howlerjs.com/)
 - [jQuery Documentation](https://api.jquery.com/)
 - [Bootstrap CSS Documentation](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
