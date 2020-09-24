@@ -1,5 +1,28 @@
-# Web Development Notes
-This repository contains notes, documentation, and places to learn about web development.
+# Fullstack Web Development Roadmap
+## :anchor: Fundamental
+The most basic building blocks of any web apps
+* HTML, CSS, and Javascript
+* Database: SQL and NoSQL
+
+## :construction: Programming
+* Basic algorithm
+* Javascript
+
+## :art: Front-end
+* React.js
+
+## :page_with_curl: Static Site Generator
+* Gatsby
+
+## :wrench: Back-end
+* Node.js
+* Web APIs: REST and GraphQL
+
+## :cloud: Cloud Computing Technology
+* GCP, AWS, Azure
+
+
+# Important Links
 
 #### Websites
 - [w3schools - The Online Web Tutorial](https://www.w3schools.com/) - A complete online web tutorial.
