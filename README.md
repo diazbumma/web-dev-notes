@@ -55,5 +55,8 @@ The most basic building blocks of any web apps
 #### Debugging Modules
 - [Locus](https://www.npmjs.com/package/locus)
 
+#### DevDependencies
+- [Nodemon](https://nodemon.io/)
+
 #### CDNs
 - [Semantic UI CDN](https://cdnjs.com/libraries/semantic-ui)
