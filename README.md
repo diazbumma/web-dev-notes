@@ -7,7 +7,8 @@ The most basic building blocks of any web apps
 * Database: SQL and NoSQL
 
 ## :construction: Programming
-* Basic algorithm
+* Basic algorithms
+    * [A complete list of topics to learn and practice about algorithms](https://github.com/jwasham/coding-interview-university)
 * Javascript
     * [Async programming part 1 - Event driven code](https://medium.com/coderupa/panduan-komplit-asynchronous-programming-pada-javascript-part-1-fca22279c056) (*in Indonesian*)
     * [Async programming part 2 - Callback concept](https://medium.com/coderupa/panduan-komplit-asynchronous-programming-pada-javascript-part-2-callback-3a717df6cfdf) (*in Indonesian*)
