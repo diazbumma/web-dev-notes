@@ -1,4 +1,6 @@
 # Fullstack Web Development Track
+Personal notes for learning web development with a curated list of places to learn and some popular library documentation.
+
 ## :anchor: Fundamental
 The most basic building blocks of any web apps
 * HTML, CSS, and Javascript
